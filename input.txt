@@ -1,0 +1,79 @@
+Icarus: 255 100 190 34
+Imperial Federation: 255 0 25 255
+Thrall Clan: 255 97 64 14
+Valryia: 255 140 47 55
+Aggland: 255 78 208 227
+Commonwealth: 255 49 129 176
+Mercutio: 255 255 78 128
+UTSS: 255 92 161 255
+Respein: 255 211 30 0
+Southshire: 255 11 59 11
+Butternut County: 255 223 194 0
+Kumra Clan: 255 20 55 0
+Icenia: 255 133 139 223
+Roal Devouir: 255 144 100 224
+Otonabee: 255 18 224 37
+Moloka: 255 255 76 181
+Wildernshire: 255 163 15 0
+Batavia: 255 21 77 175
+Warmia: 255 254 128 124
+Iopa: 255 147 154 24
+Pacem: 255 255 121 0
+Nassau: 255 19 130 252
+DonFuer: 255 74 15 16
+Danzilona: 255 146 243 39
+Pridelands: 255 208 168 11
+Arsenio Pact: 255 0 107 33
+Estalia: 255 118 38 209
+Bruma: 255 227 225 78
+Leibniz: 255 40 236 137
+Columbia: 255 255 228 72
+Volterra: 255 244 70 42
+Winterbourne: 255 38 212 128
+Mount Hassan: 255 255 151 90
+Gazebo: 255 48 106 34
+Athimwaabi: 255 94 92 63
+Proxima: 255 205 54 42
+Matt: 255 199 207 74
+Nord Co: 255 82 245 26
+Oceanview: 255 98 159 174
+Stupid Island: 255 114 0 255
+Zaros: 255 23 217 174
+Venne: 255 24 214 189
+Pavia: 255 9 198 70
+Cortesia Del Mar: 255 37 196 215
+Mount Augusta: 255 255 6 6
+Doom City: 255 66 16 71
+Griffin: 255 245 100 28
+Dirt: 255 126 48 14
+Mery: 255 164 55 47
+Dalgon: 255 136 0 27
+SPQR: 255 155 22 24
+Lambat: 255 255 255 26
+Calw: 255 234 97 16
+New Jersey: 255 91 72 231
+Nara: 255 177 177 191
+City of England: 255 117 8 8
+Ambiose: 255 172 73 55
+Cascadia: 255 82 240 208
+Resimere: 255 217 215 16
+Gensokyo: 255 255 16 240
+Iria: 255 25 143 20
+Fox Island: 255 255 120 0
+Wierdscraftland: 255 100 111 224
+Exilus: 255 74 74 74
+Grand Imperium: 255 44 199 238
+Truidencia: 255 171 8 0
+Yngland: 255 79 7 7
+Terra Leopis: 255 218 92 69
+Fempire Union: 255 255 165 228
+Gang Shi: 255 97 4 4
+Ediorum: 255 65 65 255
+YSFR: 255 255 32 32
+Yoahtl: 255 234 205 27
+Impendian Assembly: 255 149 130 220
+Ila Kyavul: 255 112 0 132
+Lusitania: 255 53 160 172
+Melia: 255 247 186 79
+Cordoba: 255 181 43 235
+Bing Chilling: 255 120 32 32
